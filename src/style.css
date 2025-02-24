@@ -73,3 +73,40 @@ a{
   align-items: center;
   margin-top: 1rem;
 }
+
+.win-announcement {
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  background-color: rgb(240, 191, 76);
+  margin: 2rem auto;
+  padding: 2rem 1rem;
+}
+
+.player-choices {
+  margin-top: 2rem;
+}
+
+.choice-btn {
+  padding: 1rem 2rem;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.emoji-btn {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+.button-text {
+  text-transform: capitalize;
+  font-family: Press Start 2P, serif;
+}
+
+
+
+
+
