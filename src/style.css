@@ -8,9 +8,9 @@ html {
   font-size: 62.5%;
 }
 
-body{
+body {
   font-size: 1.6rem;
-  font-family: Press Start 2P, serif;
+  font-family: "Press Start 2P", serif;
 }
 
 .game-container {
@@ -46,11 +46,11 @@ body{
   font-size: 1.3rem;
 }
 
-a{
+a {
   cursor: pointer;
 }
 
-.score-board{
+.score-board {
   font-size: 1.3rem;
 }
 
@@ -105,8 +105,3 @@ a{
   text-transform: capitalize;
   font-family: Press Start 2P, serif;
 }
-
-
-
-
-
